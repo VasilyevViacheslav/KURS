@@ -158,7 +158,7 @@ vector<vector<double>> find_convex_hull() {
 }
 
 int main() {
-    cin >> d;
+    cin >> d; 
 
     int n;
     cin >> n;

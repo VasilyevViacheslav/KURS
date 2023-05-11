@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\slava\source\repos\KURSOVAYA2\KURSOVAYA2\FileName.cpp(31,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  KURSOVAYA2.vcxproj -> C:\Users\slava\source\repos\KURSOVAYA2\x64\Debug\KURSOVAYA2.exe
